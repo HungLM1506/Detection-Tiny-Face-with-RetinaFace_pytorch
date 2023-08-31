@@ -42,7 +42,7 @@ We trained Mobilenet0.25 on imagenet dataset and get 46.58% in top 1. If you do 
 ## Run
 
 ```Shell
-python detect.py --trained_model weights/Resnet50_Final.pth or Mobilenet0.25_Final --network resnet50 or mobile0.25
+python detect.py --trained_model weights/Resnet50_Final.pth or Mobilenet0.25_Final.pth --network resnet50 or mobile0.25
 ```
 
 ## Evaluation widerface val
